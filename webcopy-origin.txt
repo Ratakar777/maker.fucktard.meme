@@ -1,0 +1,36 @@
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\14.01\fucktard\maker.fucktard.meme\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap
+File Name: C:\Downloaded Web Sites\14.01\fucktard\maker.fucktard.meme\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\14.01\fucktard\maker.fucktard.meme\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\14.01\fucktard\maker.fucktard.meme\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\14.01\fucktard\maker.fucktard.meme\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://maker.fucktard.meme/
+File Name: C:\Downloaded Web Sites\14.01\fucktard\maker.fucktard.meme\index.htm
+Content Type: text/html
+
+Uri: https://maker.fucktard.meme/static/css/main.26e0c0fb.css
+File Name: C:\Downloaded Web Sites\14.01\fucktard\maker.fucktard.meme\static\css\main.26e0c0fb.css
+Content Type: text/css
+
+Uri: https://maker.fucktard.meme/static/js/main.c829b70e.js
+File Name: C:\Downloaded Web Sites\14.01\fucktard\maker.fucktard.meme\static\js\main.c829b70e.js
+Content Type: application/javascript
+
+Uri: https://maker.fucktard.meme/static/media/michellehandwritting.dd5eae43604f1d5404ab.ttf
+File Name: C:\Downloaded Web Sites\14.01\fucktard\maker.fucktard.meme\static\media\michellehandwritting.dd5eae43604f1d5404ab.ttf
+Content Type: font/ttf
+
